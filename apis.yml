@@ -48,7 +48,7 @@ tags:
 - Aging
 - Diagnostics
 - Health
-- Machine-Learning
+- Machine Learning
 tags_raw:
 - Company
 - Biotechnology
@@ -58,6 +58,7 @@ tags_raw:
 - Diagnostics
 - Health
 - Machine Learning
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
